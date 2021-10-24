@@ -1,6 +1,8 @@
 <p align="right"> 
   <a href="https://www.codewars.com/users/d-tsygolnik" title="Codewars profile"> <img src="https://www.codewars.com/users/d-tsygolnik/badges/micro"> </a> 
-  <img src="https://komarev.com/ghpvc/?username=d-tsygolnik&label=Profile%20views&color=0e75b6&style=flat" alt="d-tsygolnik" /> 
+  <!--
+  <img src="https://komarev.com/ghpvc/?username=d-tsygolnik&label=Profile%20views&color=0e75b6&style=flat" alt="d-tsygolnik" />
+  -->
 </p>
 
 <h2 align="left">Hi! How is it going?</h2>
