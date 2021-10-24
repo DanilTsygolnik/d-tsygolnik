@@ -1,35 +1,19 @@
-<!--
-**d-tsygolnik/d-tsygolnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [project name](project link).
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on [project name](project link).
-- 🤔 I’m looking for help with [project name](project link).
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 👨💻 All of my projects are available at <portfolio link>
-- 📝 I regularly write articles on <blog link> 
-- 📄 Know about my experiences <resume link>
-- ⚡ Fun fact: ...
--->
-
-<!-- profile count
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=d-tsygolnik&label=Profile%20views&color=0e75b6&style=flat" alt="d-tsygolnik" /> </p>
--->
+<p align="right"> 
+  <a href="https://www.codewars.com/users/d-tsygolnik" title="Codewars profile"> <img src="https://www.codewars.com/users/d-tsygolnik/badges/micro"> </a> 
+  <img src="https://komarev.com/ghpvc/?username=d-tsygolnik&label=Profile%20views&color=0e75b6&style=flat" alt="d-tsygolnik" /> 
+</p>
 
 <h2 align="left">Hi! How is it going?</h2>
 
 I'm a graduate Chemical Engineer specializing in Fine Organic Synthesis.   
 I started using Python to process experimental data and found my passion for programming.
 
-I [keep learning](https://github.com/d-tsygolnik/learning_tracker) to become a Software Engineer.    
+I [keep learning](https://github.com/d-tsygolnik/learning_tracker "My learning tracker") Computer Science and Software Engineering.    
 
-<h4 align="left">My current activities</h4>
+<h4 align="left">My current activities:</h4>
 
-- programming algorithms and data structures on courses;
-- sport programming.
+- learning algorithms and data structures on courses;
+- improving programming skills on Codewars.
 
 <h2 align="left">Skills</h2>
 
