@@ -5,7 +5,7 @@
   -->
 </p>
 
-<h2 align="left">Hi! How is it going?</h2>
+<h1 align="left">About me</h1>
 
 I'm a graduate Chemical Engineer specializing in Fine Organic Synthesis.   
 I started using Python to process experimental data and found my passion for programming.
@@ -23,7 +23,7 @@ I [keep learning](https://github.com/d-tsygolnik/learning_tracker "My learning t
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<h2 align="left">Contact</h2>
+<h1 align="left">Contact</h1>
 
 [![Gmail](https://img.shields.io/badge/-tsygolnikd@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tsygolnikd@gmail.com "Connect via Email")
 [![telegram](https://img.shields.io/badge/-Danil_Tsygolnik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/d_tsygolnik "@d_tsygolnik")
